@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.API", "Task.API\Task.API.csproj", "{73D06430-02B8-46D6-A704-8DD3641611A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.Domain", "Task.Domain\Task.Domain.csproj", "{E4279ECE-76B7-4009-BC60-59088B0A8114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHttpClient", "ConsoleHttpClient\ConsoleHttpClient.csproj", "{45591B45-09F5-4935-87EA-D368AF6EFF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D06430-02B8-46D6-A704-8DD3641611A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D06430-02B8-46D6-A704-8DD3641611A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D06430-02B8-46D6-A704-8DD3641611A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D06430-02B8-46D6-A704-8DD3641611A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4279ECE-76B7-4009-BC60-59088B0A8114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4279ECE-76B7-4009-BC60-59088B0A8114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4279ECE-76B7-4009-BC60-59088B0A8114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4279ECE-76B7-4009-BC60-59088B0A8114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45591B45-09F5-4935-87EA-D368AF6EFF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45591B45-09F5-4935-87EA-D368AF6EFF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45591B45-09F5-4935-87EA-D368AF6EFF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45591B45-09F5-4935-87EA-D368AF6EFF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

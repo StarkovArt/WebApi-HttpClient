@@ -1,0 +1,16 @@
+D:\Примерочная\WebApi\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.csprojResolveAssemblyReference.cache
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\ConsoleHttpClient.exe.config
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\ConsoleHttpClient.exe
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\ConsoleHttpClient.pdb
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\System.Net.Http.Extensions.dll
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\System.Net.Http.Primitives.dll
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\System.Net.Http.Extensions.xml
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\System.Net.Http.Primitives.xml
+D:\Примерочная\WebApi\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.csproj.App.config
+D:\Примерочная\WebApi\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.exe
+D:\Примерочная\WebApi\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.pdb
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\Newtonsoft.Json.dll
+D:\Примерочная\WebApi\ConsoleHttpClient\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,14 @@
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Task.Domain.dll.config
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Task.Domain.dll
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Task.Domain.pdb
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\EntityFramework.dll
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\EntityFramework.xml
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\obj\Debug\Task.Domain.csprojResolveAssemblyReference.cache
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\obj\Debug\Task.Domain.dll
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\obj\Debug\Task.Domain.pdb
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Castle.Core.dll
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Moq.dll
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Castle.Core.xml
+D:\Примерочная\WebApi\WebApi with Entity\Task.Domain\bin\Debug\Moq.xml
